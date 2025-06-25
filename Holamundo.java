@@ -4,8 +4,8 @@
 public class Holamundo {
     public static void main(String[] args) {
         String nombre = "Estudiante";
-        int a = 5;
-        int b = 3;
+        int a = 10;
+        int b = 9;
         int suma = a + b;
 
         System.out.println("Hola, " + nombre + "!");
